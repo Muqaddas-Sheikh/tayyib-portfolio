@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tayyib-portfolio/static/css/main.4cce91b5.css",
+    "main.js": "/tayyib-portfolio/static/js/main.2f9d7789.js",
+    "static/js/453.cd233db5.chunk.js": "/tayyib-portfolio/static/js/453.cd233db5.chunk.js",
+    "static/media/img-7.png": "/tayyib-portfolio/static/media/img-7.d040fe30d7744c6ecea5.png",
+    "static/media/certificate2.jpg": "/tayyib-portfolio/static/media/certificate2.ba2c07719c5103f1033f.jpg",
+    "static/media/certificate-1.jpg": "/tayyib-portfolio/static/media/certificate-1.d123454024ebbb7f35bb.jpg",
+    "static/media/img-4.png": "/tayyib-portfolio/static/media/img-4.1886920e81eda76cc582.png",
+    "static/media/img-2.png": "/tayyib-portfolio/static/media/img-2.622fa284e27678f5138a.png",
+    "static/media/img-3.png": "/tayyib-portfolio/static/media/img-3.5f13e04acf3d159560d3.png",
+    "static/media/certificate3.jpg": "/tayyib-portfolio/static/media/certificate3.aa51e7005e86de072ff5.jpg",
+    "static/media/img-1.png": "/tayyib-portfolio/static/media/img-1.6deb2244b441ca78fa6f.png",
+    "static/media/img-6.png": "/tayyib-portfolio/static/media/img-6.849f64d4e1b52ccae61a.png",
+    "static/media/logo.png": "/tayyib-portfolio/static/media/logo.f3ae9eec7d28c01e562d.png",
+    "static/media/img-5.png": "/tayyib-portfolio/static/media/img-5.245e6ea7437ac4182cf3.png",
+    "index.html": "/tayyib-portfolio/index.html",
+    "main.4cce91b5.css.map": "/tayyib-portfolio/static/css/main.4cce91b5.css.map",
+    "main.2f9d7789.js.map": "/tayyib-portfolio/static/js/main.2f9d7789.js.map",
+    "453.cd233db5.chunk.js.map": "/tayyib-portfolio/static/js/453.cd233db5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cce91b5.css",
+    "static/js/main.2f9d7789.js"
+  ]
+}
